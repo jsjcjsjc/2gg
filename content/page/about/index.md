@@ -1,3 +1,15 @@
+---
+title: About
+description: 记录一些乱七八杂的东西
+date: '2019-02-28'
+lastmod: '2020-10-09'
+menu:
+    main: 
+        weight: -90
+        params:
+            icon: user
+---
+
 ### 神兽护体
 ```
 /*
