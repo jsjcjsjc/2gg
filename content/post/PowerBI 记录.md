@@ -1,5 +1,5 @@
 ---
-title: "PowerBI 记录"			# 文章标题
+title: "PowerBI 记录2"			# 文章标题
 description : "描述信息3描述信息3描述信息3描述信息3描述信息3描述信息3描述信息3"	# 文章描述信息
 date: 2015-09-28			# 文章编写日期
 slug: power-bi
