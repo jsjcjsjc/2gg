@@ -18,7 +18,7 @@ subtitle = "记录一下乱七八杂的东西" # 这里按需修改
 [sidebar.avatar]
 enabled = true
 local = true
-src = "content/avatar.png" # 这里按需修改,或者替换
+src = "img/avatar.png" # 这里按需修改,或者替换
 
 [article]
 math = false
