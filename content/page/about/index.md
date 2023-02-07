@@ -5,7 +5,7 @@ date: '2019-02-28'
 lastmod: '2020-10-09'
 menu:
     main: 
-        weight: 2
+        weight: 99
         params:
             icon: user
 ---
