@@ -1,6 +1,6 @@
 # Markdown renderer configuration
 [goldmark.renderer]
-unsafe = false
+unsafe = true # 一定要设成true 不然在markdown 插入的html 无效, 不能排版图片并列显示的效果
 
 [tableOfContents]
 endLevel = 4
