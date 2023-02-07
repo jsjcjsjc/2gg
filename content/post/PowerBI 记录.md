@@ -2,20 +2,17 @@
 title: "PowerBI 记录"			# 文章标题
 description : "描述信息3描述信息3描述信息3描述信息3描述信息3描述信息3描述信息3"	# 文章描述信息
 date: 2015-09-28			# 文章编写日期
-tags = [					# 文章所属标签
-    "文章标签3",
-]
-categories = [				# 文章所属标签
-    "文章分类3",
-    "文章分类33",
-]
-keywords = [				# 文章关键词
-    "keywords3",
-    "keywords33",
-    "keywords333",
-    "keywords3333",
-    "keywords33333",
-]
+slug: power-bi
+tags:
+- 文章标签2
+- 文章标签22
+categories:
+- 文章分类2
+- 文章分类22
+keywords:
+- keywords2
+- keywords22
+- keywords222
 ---
 # Troubleshooting
 日期: 2022-07-26 10:46
