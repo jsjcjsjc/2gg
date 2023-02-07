@@ -4,7 +4,7 @@ mainSections = ["post"]
 rssFullContent = true
 
 [footer]
-since = 2020
+since = 2022 # 这里按需修改
 customText = ""
 
 [dateFormat]
@@ -13,12 +13,12 @@ lastUpdated = "Jan 02, 2006 15:04 MST"
 
 [sidebar]
 emoji = "🍥"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+subtitle = "记录一下乱七八杂的东西" # 这里按需修改
 
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "content/avatar.png" # 这里按需修改,或者替换
 
 [article]
 math = false
@@ -72,7 +72,7 @@ enabled = true
 [imageProcessing.content]
 enabled = true
 
-## Comments
+## Comments # 这里按需修改
 [comments]
 enabled = true
 provider = "disqus"
