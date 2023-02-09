@@ -75,7 +75,7 @@ enabled = true
 ## Comments # 这里按需修改,我选择的是utterances
 [comments]
 enabled = true
-provider = "disqus"
+provider = "utterances" # 这里按需修改,我选择的是utterances
 
 [comments.disqusjs]
 shortname = ""
@@ -84,10 +84,10 @@ apiKey = ""
 admin = ""
 adminLabel = ""
 
-[comments.utterances]
+[comments.utterances] # 这里按需修改
 repo = "jsjcjsjc/assets"
 issueTerm = "pathname"
-label = "jsjcjsjc/assets"
+label = "hugo"
 
 [comments.remark42]
 host = ""
