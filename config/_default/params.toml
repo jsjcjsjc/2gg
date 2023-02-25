@@ -17,8 +17,8 @@ subtitle = "记录一些乱七八杂的东西" # 这里按需修改
 
 [sidebar.avatar]
 enabled = true
-local = false # 改成true后,可以使用本地图片,比如默认的"img/avatar.png"
-src = "https://raw.githubusercontent.com/jsjcjsjc/assets/main/img/garfield.png" # 这里按需修改,默认是"img/avatar.png"
+local = true # 改成true后,可以使用本地图片,比如默认的"img/avatar.png"
+src = "img/avatar.png" # 这里按需修改,默认是"img/avatar.png"
 
 [article]
 math = false
