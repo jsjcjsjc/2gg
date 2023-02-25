@@ -1,8 +1,6 @@
 ---
 title: QNAP初始化与硬盘数据恢复
-description : 关于QNAP的系统初始化的坑
-date: 2012-09-28			# 文章编写日期
-lastmod: 2023-02-25			# 文章修改日期
+date: 2023-02-25
 # slug: hello-world # 未测试使用
 # image: cover.jpg # 需要在post目录下新建目录,放入cover.jpg,再新建博客内容index.md才有效
 tags:
